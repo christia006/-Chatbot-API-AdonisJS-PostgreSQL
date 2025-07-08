@@ -4,26 +4,6 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
 
 ---
 
-## 🚀 Teknologi yang Digunakan
-
-- **AdonisJS v5** — Web framework berbasis Node.js
-- **PostgreSQL** — Penyimpanan database relasional
-- **Lucid ORM** — ORM bawaan Adonis untuk manipulasi model
-- **Axios** — Untuk melakukan request ke API chatbot eksternal
-- **UUID** — Sebagai `sessionId` unik untuk setiap percakapan
-
----
-
-## 🎯 Tujuan Proyek
-
-Membuat API yang dapat:
-- Menyimpan pesan percakapan dari pengguna dan bot
-- Menghubungkan ke API eksternal chatbot (Majadigi)
-- Mengatur percakapan berdasarkan `session_id`
-- Memberikan otorisasi menggunakan token sederhana
-
----
-
 ## 💼 Contoh Kasus Nyata
 
 | **Kasus** | **Solusi** |
