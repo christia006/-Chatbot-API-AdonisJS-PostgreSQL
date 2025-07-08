@@ -33,11 +33,10 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
 ### 🧪 Validasi input menggunakan Validator
 ![Validator](/images/Tambahkan%20validasi%20input%20menggunakan%20Validator.png)
 
-### 🧹 Tambahkan route untuk menghapus conversation/message
-![Delete route](/images/ada%20route%20lain%20delete%20conversation%20dan%20message.png)
 
-### ✅ Scheme database
-![PostgreSQL Schema](/images/postgressql.png)
+### ✅ Menambahkan route lain seperti delete conversation/message
+![Delete Conversation/Message](/images/ada%20route%20lain%20delete%20conversation%20dan%20message.png)
+
 
 
 ### 🔍 Filter params (search), Pagination (page, limit), preload relasi (lastMessage) di `/conversations`
