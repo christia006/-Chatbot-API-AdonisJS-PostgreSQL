@@ -36,7 +36,8 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
 ### 🧹 Tambahkan route untuk menghapus conversation/message
 ![Delete route](/images/ada%20route%20lain%20delete%20conversation%20dan%20message.png)
 
-
+### ✅ Scheme database
+![PostgreSQL Schema](/images/postgressql.png)
 
 
 ### 🔍 Filter params (search), Pagination (page, limit), preload relasi (lastMessage) di `/conversations`
@@ -56,10 +57,6 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
   ![Get Question](/images/get%20question.png)
 
 ---
-
-
-
-
 
 ----
 
