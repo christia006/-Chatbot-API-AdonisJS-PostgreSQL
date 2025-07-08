@@ -30,15 +30,14 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
 ---
 
 ## 🌟 Nilai Plus / Bonus Features
-
-### 🔒 Basic Authorization di route Conversation
-![Authorization](/images/basic%20Authorization%20di%20route%20Conversation.png)
-
 ### 🧪 Validasi input menggunakan Validator
 ![Validator](/images/Tambahkan%20validasi%20input%20menggunakan%20Validator.png)
 
 ### 🧹 Tambahkan route untuk menghapus conversation/message
 ![Delete route](/images/ada%20route%20lain%20delete%20conversation%20dan%20message.png)
+
+
+
 
 ### 🔍 Filter params (search), Pagination (page, limit), preload relasi (lastMessage) di `/conversations`
 ![Filter & Pagination](/images/Filter%20params%20(search)%20,%20Pagination%20(page,%20limit),Preload%20relasi%20(lastMessage).png)
