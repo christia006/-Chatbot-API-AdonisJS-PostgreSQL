@@ -13,8 +13,8 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
 | Akses percakapan aman | Hanya user dengan token yang bisa melihat isi percakapan |
 
 ---
-Ketentuan Teknis dan Nilai Plus
- 
+
+ ## 🌟 Ketentuan Teknis 
 
 ### ✅ Gunakan AdonisJS versi 5
 ![AdonisJS v5](/images/AdonisJS%20versi%205.png)
