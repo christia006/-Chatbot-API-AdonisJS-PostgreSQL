@@ -13,6 +13,56 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
 | Akses percakapan aman | Hanya user dengan token yang bisa melihat isi percakapan |
 
 ---
+Ketentuan Teknis dan Nilai Plus
+ 
+
+### ✅ Gunakan AdonisJS versi 5
+![AdonisJS v5](/images/AdonisJS%20versi%205.png)
+
+### ✅ Gunakan PostgreSQL sebagai database
+![PostgreSQL Schema](/images/postgressql.png)
+
+![Schema PostgreSQL](/images/Schema%20postgresql.png)
+
+### ✅ Gunakan Axios atau HttpContext.client untuk request ke API eksternal
+![Gunakan Axios](/images/Gunakan%20Axios.png)
+
+---
+
+## 🌟 Nilai Plus / Bonus Features
+
+### 🔒 Basic Authorization di route Conversation
+![Authorization](/images/basic%20Authorization%20di%20route%20Conversation.png)
+
+### 🧪 Validasi input menggunakan Validator
+![Validator](/images/Tambahkan%20validasi%20input%20menggunakan%20Validator.png)
+
+### 🧹 Tambahkan route untuk menghapus conversation/message
+![Delete route](/images/ada%20route%20lain%20delete%20conversation%20dan%20message.png)
+
+### 🔍 Filter params (search), Pagination (page, limit), preload relasi (lastMessage) di `/conversations`
+![Filter & Pagination](/images/Filter%20params%20(search)%20,%20Pagination%20(page,%20limit),Preload%20relasi%20(lastMessage).png)
+
+---
+
+## 📩 Contoh Endpoint
+
+- `GET /conversation`
+  ![Get Conversation](/images/get%20conversation.png)
+
+- `POST /question`
+  ![Post Question](/images/post%20question.png)
+
+- `GET /question`
+  ![Get Question](/images/get%20question.png)
+
+---
+
+
+
+
+
+----
 
 ## 🔄 Alur Program (Secara Sederhana)
 
