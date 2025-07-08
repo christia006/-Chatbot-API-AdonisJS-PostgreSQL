@@ -123,3 +123,10 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
 
 - Menghapus pesan berdasarkan `id` dari tabel `messages`.
 - Jika pesan yang dihapus adalah pesan terakhir dalam percakapan, maka `lastMessageId` akan diupdate otomatis.
+
+  ## 👨‍💻 Developer
+
+**Christian Johannes Hutahaean**  
+📍 Indonesia  
+🔗 [GitHub: christia006](https://github.com/christia006)
+
