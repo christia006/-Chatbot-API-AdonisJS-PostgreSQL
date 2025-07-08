@@ -22,8 +22,6 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
 ### ✅ Gunakan PostgreSQL sebagai database
 ![PostgreSQL Schema](/images/postgressql.png)
 
-![Schema PostgreSQL](/images/Schema%20postgresql.png)
-
 ### ✅ Gunakan Axios atau HttpContext.client untuk request ke API eksternal
 ![Gunakan Axios](/images/Gunakan%20Axios.png)
 
@@ -34,9 +32,8 @@ Sebuah REST API sederhana untuk menyimpan dan mengelola pertanyaan pengguna sert
 ![Validator](/images/Tambahkan%20validasi%20input%20menggunakan%20Validator.png)
 
 
-### ✅ Menambahkan route lain seperti delete conversation/message
-![Delete Conversation/Message](/images/ada%20route%20lain%20delete%20conversation%20dan%20message.png)
-
+### ✅ Tambahkan route lain seperti delete conversation/message
+![Route Delete](/images/ada%20route%20lain%20delete%20conversation%20dan%20message.png)
 
 
 ### 🔍 Filter params (search), Pagination (page, limit), preload relasi (lastMessage) di `/conversations`
